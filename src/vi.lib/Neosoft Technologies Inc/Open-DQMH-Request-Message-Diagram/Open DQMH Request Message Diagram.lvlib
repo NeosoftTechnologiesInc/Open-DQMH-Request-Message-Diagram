@@ -1,6 +1,38 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="17008000">
-	<Property Name="NI.Lib.Description" Type="Str">This library contains Open DQMH Request Message Diagram low level VIs.</Property>
+	<Property Name="NI.Lib.Description" Type="Str">This library contains Open DQMH Request Message Diagram low level VIs.
+
+Adds a Right-Click Shortcut and a Quick Drop Ctrl-Key Shortcut (CTRL-K by default) to DQMH Module Request or Request and Wait for Reply or Round Trip Broadcast methods on the block diagram allowing the developer to quickly open the Message Diagram of the Message Handling Loop within the DQMH Module Main VI.
+
+BSD 3-Clause License
+
+Copyright (c) 2022, Neosoft Technologies Inc
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*'!!!*Q(C=\&gt;5R4C-R&amp;-&lt;R$\1&amp;&lt;9LUKSGX@6@)&amp;8+&amp;&gt;Y7U+601*%*;P:9S"[$*&amp;&gt;Y65C!BU?5+Q^`G!5'L*5C!&gt;AM]]4$Z\,&amp;`]6C$V-O&amp;^%0DK4*^M\SLP:X'FV.,JD6S"?0R[@&amp;4(6_XDX8^N`9[P7[@(E]^`DH`BX`@G_UHCL\,&gt;`GX:8FSEX\ZHDV4?R&amp;2ERJ5JZL;6'/3*XG3*XG3*XG1"XG1"XG1"\G4/\G4/\G4/\G2'\G2'\G2'XE`S%5O=J&amp;$3C:0*EI'41:)/E.2=EI]C3@R*"[_+P%EHM34?")08:2Y%E`C34S*B^O5?"*0YEE]C9?BOC4\19YH]4#]!E`A#4S"*`!QJ1*0!!AG#Q9/"I'BI$'Y#$S"*`"QK=!4?!*0Y!E].#PQ"*\!%XA#$\@U69GO;1=Z(I;2YX%]DM@R/"['FO.R0)\(]4A?JJ0D=4Q/QJH1'2S#H*O=$MY8R_.Y_#0(YXA=D_.R0$4V*_2^::KG(?2Y$)`B-4S'R`!QB!S0Y4%]BM@Q-+Q-D_%R0)&lt;(]$#6$)`B-4Q'R*C5[75-:NRI&gt;$)#Q]/H\R&lt;L4SG[R0IBV?:6&lt;5L6:F.N)N8G5$VUV=.50346YKM76&lt;69KE61`4A67I624;+[O885A@/?OK.OK3PKADKHTKA$&gt;&gt;*O`?3/B]."_`V?O^V/W_V7K^6+C]6#]`F=M^F-QT"I-JE]PQ:_=DS`%"\@3UOO7\W](WYX6T@LT?^@[]X6^@LS\PLWK;X6,`J@_B_]'X7OYX&amp;:IQ&gt;VE(YQ!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
