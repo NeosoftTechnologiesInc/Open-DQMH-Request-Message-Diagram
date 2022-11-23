@@ -14,7 +14,9 @@
 		<Item Name="resource" Type="Folder">
 			<Item Name="dialog" Type="Folder">
 				<Item Name="QuickDrop" Type="Folder">
-					<Item Name="Open DQMH Request Message Diagram QD.vi" Type="VI" URL="../resource/dialog/QuickDrop/Open DQMH Request Message Diagram QD.vi"/>
+					<Item Name="plugins" Type="Folder">
+						<Item Name="Open DQMH Request Message Diagram QD.vi" Type="VI" URL="../resource/dialog/QuickDrop/plugins/Open DQMH Request Message Diagram QD.vi"/>
+					</Item>
 				</Item>
 			</Item>
 			<Item Name="plugins" Type="Folder">
