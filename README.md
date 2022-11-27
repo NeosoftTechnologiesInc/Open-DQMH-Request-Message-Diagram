@@ -1,3 +1,5 @@
+[![Image](https://www.vipm.io/package/neosoft_technologies_inc_lib_open_dqmh_request_message_diagram/badge.svg?metric=installs)](https://www.vipm.io/package/neosoft_technologies_inc_lib_open_dqmh_request_message_diagram/) [![Image](https://www.vipm.io/package/neosoft_technologies_inc_lib_open_dqmh_request_message_diagram/badge.svg?metric=stars)](https://www.vipm.io/package/neosoft_technologies_inc_lib_open_dqmh_request_message_diagram/)
+
 # Open-DQMH-Request-Message-Diagram
 When writing code using DQMH Framework, the way you communicate between actors is by way of request message VIs. Each DQMH request message has a VI which collects the inputs for the message and transports it using custom user event, but the VI (which is often what you see on the block diagram) is not what gets executed by the DQMH module that receives the message. The actual logic that executes when the message is received resides in what we call a DQMH Request Message Diagram which is a member of the receiving DQMH module main VI.
 
