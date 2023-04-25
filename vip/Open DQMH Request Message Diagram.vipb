@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-11-22 09:41:56" Modified_Date="2022-11-26 17:40:57" Creator="Neo" Comments="" ID="440d1c226f3335fd00bc5b08c540625f">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-11-22 09:41:56" Modified_Date="2023-04-25 12:05:09" Creator="Neo" Comments="" ID="b313f9912ecf2ddbc8f7ded733bd05e5">
   <Library_General_Settings>
     <Package_File_Name>Neosoft_Technologies_Inc_lib_Open_DQMH_Request_Message_Diagram</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -32,7 +32,8 @@
       <Copyright/>
       <Packager>Benjamin Rouffet</Packager>
       <URL>https://github.com/NeosoftTechnologiesInc/Open-DQMH-Request-Message-Diagram</URL>
-      <Release_Notes>Initial release.</Release_Notes>
+      <Release_Notes>Fix Get DQMH Main VI issue
+Fix multiple string CONSTANT in the EHL issue</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

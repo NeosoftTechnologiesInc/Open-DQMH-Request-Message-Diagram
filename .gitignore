@@ -1,3 +1,4 @@
 ﻿*.aliases
 *.lvlps
 builds
+tests
